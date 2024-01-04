@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "boo.cosmo.ae2adicio.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ae2adicio.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
